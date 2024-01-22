@@ -1,0 +1,52 @@
+.*{
+    margin: 0px;
+}
+footer{
+    background-color: rgb(172, 160, 160);
+    margin-top: 0px;
+}
+.left-footer{
+    width: 500px;
+    display: flex;
+    gap: 2px;
+    flex-direction: row;
+    margin: auto;
+    margin-top: 40px;
+    
+
+}
+.left-footer ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin-top: 40px;
+}
+.left-footer li{
+    margin-left: 20px;
+}
+.right-footer{
+    width: 400px;
+    margin-left: 1150px;
+}
+.right-footer button{
+    background-color: rgb(244, 31, 31);
+    border-radius: 10px;
+    border: none;
+    margin-left: 10px;
+}
+.right-footer input{
+    border-radius: 10px;
+    border: none;
+    margin-left: 30px;
+}
+.img{
+    justify-content: center;
+    width: 200px;
+    margin: auto;
+    
+    margin-top: 10px;
+}
+.img img{
+    margin-left: 10px;
+}

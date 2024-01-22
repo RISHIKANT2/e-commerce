@@ -1,0 +1,32 @@
+.poster{
+    background: linear-gradient(180deg,rgb(238, 176, 61),rgb(229, 210, 175));
+    display: flex;
+    justify-content: space-around;
+}
+.poster-left{
+    
+    height: 200px;
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.poster-right img{
+    height: 300px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+.poster-left button{
+    background-color: rgb(242, 34, 34);
+    color: whitesmoke;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    height: 35px;
+    width: 80px;
+    margin-left: 40px;
+}
+.poster-left h1{
+    font-size: 50px;
+}
+.poster-left p{
+    font-size: 20px;
+}

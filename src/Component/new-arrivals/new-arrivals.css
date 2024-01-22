@@ -1,0 +1,18 @@
+.box1{
+    
+    height: 550px;
+    background: linear-gradient(200deg,rgb(227, 224, 207),rgb(229, 220, 159));
+    
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.head hr{
+    height: 2px;
+    width: 270px;
+    background-color: rgba(87, 92, 100, 0.913);
+    margin-top: 0px;
+}

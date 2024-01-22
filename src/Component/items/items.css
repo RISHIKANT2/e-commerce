@@ -1,0 +1,22 @@
+.card-body img{
+    width: 20px;
+
+}
+.card-body a{
+    width: 100px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding-left: 8px;
+   color: rgb(252, 250, 250);
+    
+}
+.card-body p{
+   color: black;
+}
+
+   
+.box{
+   color: black;
+    
+}

@@ -1,0 +1,25 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+  background-color: rgb(121, 110, 110);
+  font-family: 'Poppins', sans-serif;
+}
+.form-signin{
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form h1{
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+}
+p{
+    color: whitesmoke;
+   
+}

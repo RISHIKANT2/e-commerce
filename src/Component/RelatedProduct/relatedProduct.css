@@ -1,0 +1,17 @@
+
+
+    .items{
+        width:100%;
+        overflow:auto;
+        white-space:nowrap;
+        height: 400px;
+    }
+    .col{
+        display: inline-block;
+        display: inline;/*For IE7*/
+        zoom:1;/*For IE7*/
+        vertical-align:top;
+        width:200px;
+        margin-right:20px;
+        white-space:normal;
+    }
